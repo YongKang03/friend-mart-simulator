@@ -30,16 +30,24 @@ My two teammates contributed as the **scene designer** and **UI designer**, cove
 <p align="center">
   <img src="Media/Main_menu_scene.png" width="480">
   <br>
-  Main menu for *Friend Mart Simulator*.
+  Main menu for <em>Friend Mart Simulator</em>.
+  <br><br>
+  
   <img src="Media/Staff_room_in_game_scene.png" width="480">
   <br>
-  The staff room in *Friend Mart*, where players start and end thier shift, and review their performance after the shift.
+  The staff room in <em>Friend Mart</em>, where players start and end thier shift, and review their performance after the shift.
+  <br><br>
+  
   <img src="Media/Game_scene.png" width="480">
   <br>
-  The environent of *Friend Mart*, sweet and clean.
+  The environent of <em>Friend Mart</em>, sweet and clean.
+  <br><br>
+  
   <img src="Media/Ongoing_shift_scenario.png" width="480">
   <br>
   The ongoing shift. The customers are queuing up, and the player is holding the scanner, ready for the checkout.
+  <br><br>
+  
   <img src="Media/Completed_shift_interface.png" width="480">
   <br>
   The interface after completing the shift.
