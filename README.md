@@ -29,6 +29,7 @@ My two teammates contributed as the **scene designer** and **UI designer**, cove
 ## Screenshot
 <p align="center">
   <img src="Media/Main_menu_scene.png" width="480">
+  <br>
   Main menu for *Friend Mart Simulator*.
   <img src="Media/Staff_room_in_game_scene.png" width="960">
   The staff room in *Friend Mart*, where players start and end thier shift, and review their performance after the shift.
