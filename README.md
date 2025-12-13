@@ -4,6 +4,8 @@
 ## Overview
 The VR application is developed by a group of 3 members under the course BMCS3063 Virtual Reality. The project aims to simulate the core responsibilities of working in a convenience store, *Friend Mart* through natural VR interactions. Players will experience the full workflow of a typical shift in this lively store.
 
+Players start at the staff room. They may walk around the store, toggle tutorial hints and start the shift once they are ready. When the shift starts, the clock ticks and the customers will walk in the store. Customers may either wander or shop around, while players' main task is to do the checkout work. Once the customers picked up the items, they will queue and wait at the cashier counter. Players have to use the scanner to scan the items and put them into the bag. The customer will provide their card for payment once the items are bagged. After the payment, players have to return the card and place the bag at the pick up area. The score will be given based on the time taken to complete one checkout. The players can only end their shift when the time has ended and all custoemrs have been served. A final score and rating will be shown to players to reflect their performance.
+
 ## Feature
 - **Immersive checkout system** - From item scanning and bagging until payment processing and pickup, the system is designed to mimic a real convenience store workflow.
 - **Dynamic and realistic working environment** - The store simulates a typical convenience mart setting, where players start and end their shift, and customers shop around the store.
