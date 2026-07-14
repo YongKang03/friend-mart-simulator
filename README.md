@@ -1,5 +1,9 @@
 # Friend Mart Simulator
-*Friend Mart Simulator*, a VR game that simulates a realistic and immersive working environment in a convenience store.
+<p align="center">
+  <em>Friend Mart Simulator</em>, a VR game that simulates a realistic and immersive working environment in a convenience store.
+  <br><br>
+  <img src="Media/Friend_Mart_Simulator_Page.png" width="480">
+</p>
 
 ## Overview
 The VR application is developed by a group of 3 members under the course BMCS3063 Virtual Reality. The project aims to simulate the core responsibilities of working in a convenience store, *Friend Mart* through natural VR interactions. Players will experience the full workflow of a typical shift in this lively store.
