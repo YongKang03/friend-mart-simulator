@@ -32,7 +32,7 @@ My two teammates contributed as the **scene designer** and **UI designer**, cove
 - **Oculus Integration & XR Interaction Toolkit** – Used for VR controllers, interactions, hand tracking and VR rig setup.
 - **Microsoft Visual Studio** – IDE used for scripting and debugging.
 
-## Screenshot
+## Media
 <p align="center">
   <img src="Media/Main_menu_scene.png" width="480">
   <br>
