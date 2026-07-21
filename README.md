@@ -1,6 +1,6 @@
 # Friend Mart Simulator
 <p align="center">
-  A VR game that simulates a realistic and immersive working environment in a convenience store.
+  A VR game that simulates an immersive working environment in a convenience store.
   <br><br>
   <img src="Media/Friend_Mart_Simulator_Page.png" width="480">
 </p>
